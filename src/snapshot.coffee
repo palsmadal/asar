@@ -1,4 +1,4 @@
-fs = require 'fs'
+fs = require 'original-fs'
 path = require 'path'
 mksnapshot = require 'mksnapshot'
 vm = require 'vm'

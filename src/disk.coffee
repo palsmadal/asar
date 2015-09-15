@@ -1,4 +1,4 @@
-fs = require 'fs'
+fs = require 'original-fs'
 path = require 'path'
 mkdirp = require 'mkdirp'
 pickle = require 'chromium-pickle-js'

@@ -1,4 +1,4 @@
-fs = require 'fs'
+fs = require 'original-fs'
 glob = require 'glob'
 
 module.exports = (dir, options, callback) ->

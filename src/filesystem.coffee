@@ -1,4 +1,4 @@
-fs = require 'fs'
+fs = require 'original-fs'
 path = require 'path'
 UINT64 = require('cuint').UINT64
 
